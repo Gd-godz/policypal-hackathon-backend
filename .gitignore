@@ -1,0 +1,12 @@
+# Ignore service account credentials
+service-account.json
+
+# Ignore Python environment folders
+venv/
+__pycache__/
+
+# Ignore OS and editor files
+.DS_Store
+*.log
+.env
+.env.local
